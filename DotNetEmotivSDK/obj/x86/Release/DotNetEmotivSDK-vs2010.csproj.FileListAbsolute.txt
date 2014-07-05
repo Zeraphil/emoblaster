@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Emotiv Developer Edition SDK v2.0.0.20\doc\examples_DotNet\build\Release\DotNetEmotivSDK-vs2010.dll.config
+C:\Program Files (x86)\Emotiv Developer Edition SDK v2.0.0.20\doc\examples_DotNet\build\Release\DotNetEmotivSDK-vs2010.dll
+C:\Program Files (x86)\Emotiv Developer Edition SDK v2.0.0.20\doc\examples_DotNet\build\Release\DotNetEmotivSDK-vs2010.pdb
+C:\Program Files (x86)\Emotiv Developer Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDK\obj\x86\Release\DotNetEmotivSDK-vs2010.dll
+C:\Program Files (x86)\Emotiv Developer Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDK\obj\x86\Release\DotNetEmotivSDK-vs2010.pdb
