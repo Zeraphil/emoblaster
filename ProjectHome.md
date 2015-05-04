@@ -1,0 +1,1 @@
+Plays as geometry wars with an Emotiv headset. Reads Affective score and modifies game behavior based on it.
